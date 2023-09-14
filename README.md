@@ -29,7 +29,7 @@ Based on MVVM pattern
         some of global functions
 ```
 ### 🛠 Appearance / Behavior Customization
-![Demo Snapshot](https://github.com/jala886/20230116--jianli--NYCSchools-UIKit/blob/main/ScreenShot%20main.png)
+![Demo Snapshot](https://github.com/jala886/CoireML_AI/blob/main/loading%20image%20and%20show%20result.gif)
 
 ### 👀 ToDo:
     Add UITest
