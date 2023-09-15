@@ -9,11 +9,16 @@ This is coding test for sparrow interview
 UIKit
 MVVM pattern
 ```
+typealias AiMachine = YOLOv3FP16
+    more precise but slow
+typealias AiMachine = YOLOv3TinyFP16
+    faster but not very precise
 ### 🖼 Overlays
 ```
 Based on MVVM pattern
     * Views
         ViewController 
+            typealise choose AI engine
         have three parts
         (1) top bar
            (1.2) app title, 
@@ -32,10 +37,9 @@ Based on MVVM pattern
 ![Demo Snapshot](https://github.com/jala886/CoireML_AI/blob/main/loading%20image%20and%20show%20result.gif)
 
 ### 👀 ToDo:
-    Add UITest
+    Add UITest, XCtest
     Add Combine and impove video detected
     Draw line on video and image to make result more clear
-
 ### 👀 Adapt visibility of:
 
 
