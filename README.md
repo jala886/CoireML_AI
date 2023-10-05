@@ -1,5 +1,5 @@
 ![Demo Snapshot]()
-This is coding test for sparrow interview 
+This is coding test 
 ### 🖼 How to used
 (1) click top left label load video, click top right label load image. 
 (2) When running in simulator, draw test images and videos into iPhone's Photos. restart. running this app, then should see image and videos
